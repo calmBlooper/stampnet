@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051457174103",
+    "project_id": "stampnet-3f3e1",
+    "storage_bucket": "stampnet-3f3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051457174103:android:8c432a19dffd0fb1354112",
+        "android_client_info": {
+          "package_name": "com.voldemar.stampnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051457174103-bh1d9oga422a8d5pjlbkmbaj35tm5ug4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voldemar.stampnet",
+            "certificate_hash": "5e5a7d44525d1d7a96e90945c88ebeff87005a7e"
+          }
+        },
+        {
+          "client_id": "1051457174103-g55r1195kugdp662f6doeeo93ehr16hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLieh6h3JTTBvzWCZsjyNeWLytRfxvF8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051457174103-g55r1195kugdp662f6doeeo93ehr16hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
